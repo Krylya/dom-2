@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+	color: rgb(120, 130, 140);
+	text-align: center;
+	margin-top: 20px;
+	font-weight: normal;
+}
+
+.wrap-table {
+	margin: 20px auto;
+}
+.wrap-table td {
+	padding: 10px 20px;
+}
+.wrap-table tr:nth-child(even) {
+	background-color: rgb(210, 215, 220);
+}
